@@ -1,0 +1,22 @@
+### Dependency
+
+dep_dict_test ={
+    'punct' : [], 'prep' : [], 'pobj' : [], 'compound' : [], 'det' : [], 
+            'nsubj' : [], 'ROOT' : [], 'amod' : [], 'dobj' : [], 'aux' : []
+}
+
+
+## NER
+
+ner_dict_train['PERSON']=[]
+ner_dict_train['NORP']=[]
+ner_dict_train['FAC']=[]
+ner_dict_train['ORG']=[]
+ner_dict_train['GPE']=[]
+ner_dict_train['LOC']=[]
+ner_dict_train['MONEY']=[]
+ner_dict_train['LANGUAGE']=[]
+ner_dict_train['QUANTITY']=[]
+ner_dict_train['ORDINAL']=[]
+ner_dict_train['CARDINAL']=[]
+ner_dict_train['WORK_OF_ART']=[]
